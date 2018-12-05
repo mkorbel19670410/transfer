@@ -27,7 +27,7 @@ SECRET_KEY = 'wmmu0@j84rxp03+8n9n*1f64$%d&w-n65$2$r%8m_oa1_dub8r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
